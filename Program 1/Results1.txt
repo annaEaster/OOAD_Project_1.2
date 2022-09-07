@@ -1,0 +1,68 @@
+(base) annaeaster@cu-biot-2-10 ~ %  /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:54999 -Dfile.encoding=UTF-8 -cp /private/var/folders/qk/t08nwbr97dbgxp0bh70r7csw0000gn/T/vscodesws_9cfa6/jdt_ws/jdt.ls-java-project/bin Main 
+Enter a number
+4
+Current numbers are: [4.0]
+Enter a number
+7
+Current numbers are: [4.0, 7.0]
+Enter a number
+2
+Current numbers are: [4.0, 7.0, 2.0]
+Enter a number
+4
+Current numbers are: [4.0, 7.0, 2.0, 4.0]
+Enter a number
+9
+Current numbers are: [4.0, 7.0, 2.0, 4.0, 9.0]
+Enter a number
+1
+Current numbers are: [4.0, 7.0, 2.0, 4.0, 9.0, 1.0]
+Enter a number
+4
+Current numbers are: [4.0, 7.0, 2.0, 4.0, 9.0, 1.0, 4.0]
+Enter a number
+6
+Current numbers are: [4.0, 7.0, 2.0, 4.0, 9.0, 1.0, 4.0, 6.0]
+Enter a number
+7
+Current numbers are: [4.0, 7.0, 2.0, 4.0, 9.0, 1.0, 4.0, 6.0, 7.0]
+Enter a number
+
+Current numbers are: [4.0, 7.0, 2.0, 4.0, 9.0, 1.0, 4.0, 6.0, 7.0]
+Median: 4.0
+Mean: 4.888888888888889
+Mode: 4.0
+Variance: 6.611111111111111
+Standard Deviation: 2.571208103423585
+Minimum Value: 1.0
+Maximum Value: 9.0
+value: 4.0, count: 3
+
+
+(base) annaeaster@cu-biot-2-10 ~ %  /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:55009 -Dfile.encoding=UTF-8 -cp /private/var/folders/qk/t08nwbr97dbgxp0bh70r7csw0000gn/T/vscodesws_9cfa6/jdt_ws/jdt.ls-java-project/bin Main 
+Enter a number
+2.5
+Current numbers are: [2.5]
+Enter a number
+6.9
+Current numbers are: [2.5, 6.9]
+Enter a number
+2.3
+Current numbers are: [2.5, 6.9, 2.3]
+Enter a number
+4.5
+Current numbers are: [2.5, 6.9, 2.3, 4.5]
+Enter a number
+2.5
+Current numbers are: [2.5, 6.9, 2.3, 4.5, 2.5]
+Enter a number
+
+Current numbers are: [2.5, 6.9, 2.3, 4.5, 2.5]
+Median: 2.5
+Mean: 3.7400000000000007
+Mode: 2.5
+Variance: 3.928000000000001
+Standard Deviation: 1.9819182626939995
+Minimum Value: 2.3
+Maximum Value: 6.9
+value: 2.5, count: 2

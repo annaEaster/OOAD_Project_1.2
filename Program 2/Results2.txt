@@ -1,0 +1,14 @@
+(base) annaeaster@cu-biot-2-10 ~ %  /Library/Java/JavaVirtualMachines/temurin-11.jdk/Contents/Home/bin/java -agentlib:jdwp=transport=dt_socket,server=n,suspend=y,address=localhost:55349 -Dfile.encoding=UTF-8 -cp /private/var/folders/qk/t08nwbr97dbgxp0bh70r7csw0000gn/T/vscodesws_64967/jdt_ws/jdt.ls-java-project/bin Main 
+Enter a string
+Bruce
+Original Input: Bruce
+End Result: URECBCERU
+Enter a string
+Emmett Easter
+Original Input: Emmett Easter
+End Result: TTTSRMMEEEEAEEEEMMRSTTT
+Enter a string
+
+Original Input: 
+End Result: 
+(base) annaeaster@cu-biot-2-10 ~ % 
